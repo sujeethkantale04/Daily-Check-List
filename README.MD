@@ -23,11 +23,11 @@ Welcome to Daily Check List, a simple and efficient web application designed to 
 7. Your app is live and can be running on localhost:3000
 
 ### .env file
-PG_USER="postgres"
-PG_HOST="localhost"
-PG_DATABASE="permalist"
-PG_PASSWORD=""
-PG_PORT="5432"
+PG_USER="postgres" \
+PG_HOST="localhost" \
+PG_DATABASE="permalist" \
+PG_PASSWORD="" \ 
+PG_PORT="5432" \
 
 ### Contributing
 We welcome contributions to enhance the Daily Check List application. To contribute, please follow these steps:
