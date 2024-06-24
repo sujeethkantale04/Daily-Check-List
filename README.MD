@@ -26,8 +26,8 @@ Welcome to Daily Check List, a simple and efficient web application designed to 
 PG_USER="postgres" \
 PG_HOST="localhost" \
 PG_DATABASE="permalist" \
-PG_PASSWORD="" \ 
-PG_PORT="5432" \
+PG_PASSWORD="" \
+PG_PORT="5432" 
 
 ### Contributing
 We welcome contributions to enhance the Daily Check List application. To contribute, please follow these steps:
